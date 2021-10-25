@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 class ApplicationController < ActionController::Base
   # TODO: Remove once https://github.com/inertiajs/inertia-rails/pull/72 is merged and fixed
   # Should be "if" instead of "unless"
