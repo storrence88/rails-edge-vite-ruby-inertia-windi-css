@@ -30,7 +30,7 @@ Because Rails 6.1 ships with webpacker by default we need to skip installing it 
 
 **Important** - using these flags means **zero** javascript gets added to the app so you'll need to add libraries as you go. This template adds the following packages as a starting point:
 
-⬇️ Clone the repo
+⬇️  Clone the repo
 
 ```bash
 https://github.com/storrence88/rails-edge-vite-ruby-inertia-windi-css.git
