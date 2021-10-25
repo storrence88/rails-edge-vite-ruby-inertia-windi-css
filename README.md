@@ -28,7 +28,7 @@ Vite consists of two major parts:
 
 Because Rails 6.1 ships with webpacker by default we need to skip installing it all together when creating a new app. The main flags you need are `--skip-webpack-install` and `--skip-javascript`.
 
-**Important** - using these flags means **zero** javascript gets added to the app so you'll need to add libraries as you go. This template adds the following packages as a starting point:
+**Important** - using these flags means **zero** javascript gets added to the app so you'll need to add libraries as you go.
 
 ⬇️  Clone the repo
 
