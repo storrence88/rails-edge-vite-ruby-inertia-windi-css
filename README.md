@@ -33,7 +33,7 @@ Because Rails 6.1 ships with webpacker by default we need to skip installing it 
 ⬇️ Clone the repo
 
 ```bash
-git clone git@github.com:justalever/kickoff_vite_rails.git
+https://github.com/storrence88/rails-edge-vite-ruby-inertia-windi-css.git
 ```
 
 ### Once installed what do I get?
@@ -46,7 +46,7 @@ git clone git@github.com:justalever/kickoff_vite_rails.git
 
 `$ bin/rails s`
 
-### Boot up the dev server
+### Boot up the Vite dev server
 
 `$ bin/vite dev`
 
